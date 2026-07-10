@@ -1,4 +1,4 @@
-package com.java.array;
+package com.java.dsa.day1;
 import java.util.*;
 
 //update elements of array, index shouldnot cross bounds

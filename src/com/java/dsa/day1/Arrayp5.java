@@ -1,4 +1,4 @@
-package com.java.array;
+package com.java.dsa.day1;
 //Find majority element
 public class Arrayp5 {
 

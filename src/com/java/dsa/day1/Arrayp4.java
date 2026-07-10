@@ -1,4 +1,4 @@
-package com.java.array;
+package com.java.dsa.day1;
 //zeros to last
 import java.util.Arrays;
 

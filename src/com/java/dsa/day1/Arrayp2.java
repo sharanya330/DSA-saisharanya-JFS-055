@@ -1,4 +1,4 @@
-package com.java.array;
+package com.java.dsa.day1;
 //delete element at position 3
 import java.util.Arrays;
 

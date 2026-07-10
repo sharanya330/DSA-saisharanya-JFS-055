@@ -1,4 +1,4 @@
-package com.java.array;
+package com.java.dsa.day1;
 import java.util.Scanner;
 public class TraverseArray {
 	public static void main(String [] args) {
